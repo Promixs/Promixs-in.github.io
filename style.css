@@ -1,0 +1,112 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(to top, #F7f7f7, #fefefe);
+}
+a
+{
+	text-decoration: none;
+}
+.header
+{
+
+}
+.navbar
+{
+	border: 1px solid blue;
+	justify-content: space-around;
+	display: flex;
+	width: 94%;
+	margin-left: 3%;
+	border-bottom: 3px solid blue;
+}
+
+.logo_icon
+{
+	width: 700px;
+	margin-left: 29.5%;
+	
+}
+.navbar_link
+{
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding:10px 0 ;
+	border-left: 1px solid silver;
+	padding: 10px 0 10px 110px;
+}
+.navbar_link_11
+{
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding:10px 0 ;
+	padding: 13px 0 10px 6px;
+}
+.navbar_link_1
+{
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	border-left: 1px solid silver;
+	padding: 10px 0 10px 110px;
+}
+.navbar_link_2
+{
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	border-left: 1px solid silver;
+	padding: 10px 0 10px 115px;
+}
+.navbar_link_3
+{
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	border-left: 1px solid silver;
+	padding: 10px 0 10px 80px;
+}
+.image_link
+{
+	width: 94%;
+	margin-left: 3%;
+	height:700px;
+}
+.image_folder
+{
+	margin-top: 50px;
+}
+
+
+
+
+.div1{
+	width: 55%;
+	margin-left: 3%;
+	height: 400px;
+	float: left;
+	padding-left: 16px;
+	background: #fff;
+	margin-top: 20px;
+}
+
+.div2{
+	width: 33%;
+	margin-right:3%;
+	height: 400px;
+	float: right;
+	padding-left: 16px;
+	background: #fff;
+	margin-top: 20px;
+}
+.div1_text
+{
+	padding-left: 18px;
+}
+.div2_text
+{
+	padding-left: 18px;
+}
